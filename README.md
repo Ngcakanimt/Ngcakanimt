@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mthawelanga otherwise you can call me Mtha
-- 👀 I’m interested in cybersecurity and I aspire to be one
-- 🌱 I’m currently learning new languages like flutter to add on to the knowledge that I know
+- 👋 Hi, I’m Mtha, a cybersecurity specialist by day and a developer at night
+- 👀 My areas are mobile and full-stack development.
+- 🌱 I enjoy learning new programming languages.
 - 📫 You can reach me by email at mthangcakani2@gmail.com
 
 <!---
